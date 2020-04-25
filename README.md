@@ -2,4 +2,4 @@
 
 ModernMT is a machine translation service, which provides document-level context-awareness.
 The function provided here is a simple way to integrate this service into any NLP routine in R.
-It requires a requistered modernMT account and a user key.
+It requires a registered modernMT account and a user key.
