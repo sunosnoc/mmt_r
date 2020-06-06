@@ -5,7 +5,7 @@ The function provided here is a simple way to integrate this service into any NL
 It requires a registered modernMT account and a user key.
 ## Use
 Parameters:
-x = character vector containing individual texts
-key = mmt user key 
-source = 2 digit code for source language
-target = 2 digit code for target language
+* x = character vector containing individual texts
+* key = mmt user key 
+* source = 2 digit code for source language
+* target = 2 digit code for target language
