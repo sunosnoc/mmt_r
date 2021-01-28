@@ -1,4 +1,4 @@
-# mmt_r - A simple function to use the ModernMT translation API in R
+# mmt_translate_sentence - A simple function to use the ModernMT translation API in R
 ## Description
 ModernMT is a machine translation service, which provides document-level context-awareness.
 The function provided here is a simple way to integrate this service into any NLP routine in R.
